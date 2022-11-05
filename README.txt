@@ -1,5 +1,6 @@
-IJON (pronounced like "e-yon") is a symmetric block cipher with 128 bits of block and key size.
-It is meant to serve as an example application of the sponge construction in a key expansion algorithm.
+IJON (pronounced like "e-yon") is a symmetric block cipher with 128 bits of block and key size. The name of the cipher is not an acronym. Instead, it references Ijon Tichy, a protagonist of many novels by polish Sci-Fi author Stanisław Lem. The name was chosen to celebrate the 100th anniversary of author's birth in the year 2021.
+
+The cipher is meant to serve as an example application of the sponge construction in a key expansion algorithm.
 Its design and implementation were the topic of my thesis at AGH University of Science and Technology in Kraków, Poland.
 The thesis also resulted in publication of an article titled "A Sponge-Based Key Expansion Scheme for Modern Block Ciphers".
 
