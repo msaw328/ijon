@@ -1,4 +1,9 @@
-IJON (pronounced like "e-yon") is a symmetric block cipher with 128 bits of block and key size. Its design and implementation were the topic of my thesis at AGH University of Science and Technology in Kraków, Poland. 
+IJON (pronounced like "e-yon") is a symmetric block cipher with 128 bits of block and key size.
+It is meant to serve as an example application of the sponge construction in a key expansion algorithm.
+Its design and implementation were the topic of my thesis at AGH University of Science and Technology in Kraków, Poland.
+The thesis also resulted in publication of an article titled "A Sponge-Based Key Expansion Scheme for Modern Block Ciphers".
+
+----
 
 This repository contains a reference implementation of IJON written in C along with accompanying scripts and examples. It has been tested on Linux, though it may be possible to build it on other operating systems as well.
 
